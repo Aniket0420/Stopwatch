@@ -1,0 +1,28 @@
+body {
+  background: orange;
+  color: white;
+  padding: 20px 40px 40px;
+  font-family: 'Photography';
+}
+
+.text-content {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 4em;
+  margin-bottom: 40px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 20px 40px;
+  width: 30%;
+  background: orange;
+  color: white;
+  font-size: 2em;
+}
